@@ -12,9 +12,7 @@
 
 5- Like all the posts in this account
 
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zenrows.com%2Fblog%2Fweb-scraping-instagram&psig=AOvVaw3SBhAinFp9pVUmLLznRg4K&ust=1675278306086000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMCMwKLA8vwCFQAAAAAdAAAAABAR"
-
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zenrows.com%2Fblog%2Fweb-scraping-instagram&psig=AOvVaw3SBhAinFp9pVUmLLznRg4K&ust=1675278306086000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMCMwKLA8vwCFQAAAAAdAAAAABAR)
+https://user-images.githubusercontent.com/65490811/215864057-8377aaa4-198c-440b-8563-0bb4f6a3d1fe.jpg
 
 
 
